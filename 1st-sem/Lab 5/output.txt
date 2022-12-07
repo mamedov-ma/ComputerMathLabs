@@ -1,0 +1,3 @@
+Simpson formula:  1.6054185833333336
+Trapeze formula:  1.6031443749999998
+Runge formula (rule):  1.6054185833333332
